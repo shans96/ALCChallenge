@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ALCChallenge</string>
+    <string name="load_alc">About ALC</string>
+    <string name="load_profile">Show Profile</string>
 </resources>
