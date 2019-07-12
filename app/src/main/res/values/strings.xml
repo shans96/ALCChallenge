@@ -2,4 +2,5 @@
     <string name="app_name">ALCChallenge</string>
     <string name="load_alc">About ALC</string>
     <string name="load_profile">Show Profile</string>
+    <string name="alc_url">https://andela.com/alc/</string>
 </resources>
