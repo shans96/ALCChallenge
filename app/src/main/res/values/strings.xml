@@ -3,4 +3,14 @@
     <string name="load_alc">About ALC</string>
     <string name="load_profile">Show Profile</string>
     <string name="alc_url">https://andela.com/alc/</string>
+    <string name="name_desc">Name:</string>
+    <string name="name">Shan S</string>
+    <string name="track_desc">Course Track:</string>
+    <string name="track">Android</string>
+    <string name="country_desc">Country:</string>
+    <string name="country">South Africa</string>
+    <string name="email_desc">E-mail:</string>
+    <string name="email">shanswanlow96@gmail.com</string>
+    <string name="phone_number_desc">Mobile Number:</string>
+    <string name="phone_number">+27 73 545 8420</string>
 </resources>

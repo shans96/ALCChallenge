@@ -18,4 +18,10 @@ public class MainActivity extends AppCompatActivity {
         Intent webviewIntent = new Intent(this, AlcWebViewActivity.class);
         startActivity(webviewIntent);
     }
+
+    public void loadProfile(View view)
+    {
+        Intent profileIntent = new Intent(this, ViewProfileActivity.class);
+        startActivity(profileIntent);
+    }
 }
